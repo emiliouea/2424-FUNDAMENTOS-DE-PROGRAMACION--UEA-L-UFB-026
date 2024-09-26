@@ -8,7 +8,7 @@ informacion_personal = {
 
 #2. Acceder y Modificar Valores:
 # Accede al valor asociado con la clave "ciudad" y modifícalo con una ciudad diferente.
-informacion_personal["ciudad"] = "Macas"  # Cambiamos de Santo Domingo de los Tsachilas a Morona Santiago
+informacion_personal["ciudad"] = "Macas"  # Cambiamos de Santo Domingo de los Tsachilas a Macas
 
 # Agregar una nueva clave-valor que represente la profesión
 informacion_personal["profesion"] = "Ingeniero de Software"
