@@ -1,0 +1,3 @@
+Aprendiendo a trabajar con archivos en Python.
+Usando metodo 'write' para escribir datos en el archivo.
+El uso de 'with' facilita la gestión de archivos.
